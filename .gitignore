@@ -3,3 +3,4 @@ models
 *.pyc
 .ipynb_checkpoints
 *.log
+results
