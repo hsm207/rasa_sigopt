@@ -1,5 +1,7 @@
 # Introduction
 
+This repository contains code to accompany the [How To Automatically Track And Optimise Rasa Models Using SigOpt](https://pub.towardsai.net/how-to-automatically-track-and-tune-rasa-models-81912a33ee82) blog post on Medium.
+
 # Prerequisites
 
 1. Docker
