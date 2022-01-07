@@ -9,4 +9,5 @@ RUN pip install black \
     sigopt==8.2.0
 
 RUN apt update && \
-    apt install -y make
+    apt install -y git \
+        make
